@@ -205,7 +205,7 @@ window.addEventListener('DOMContentLoaded', function () {
         data.forEach(({img, altimg, title, descr, price}) => {
             const element = document.createElement('div');
 
-            data.price * 27;
+            price = price * 27;
 
             element.classList.add('menu__item');
             
