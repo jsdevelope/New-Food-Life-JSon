@@ -1,0 +1,22 @@
+{
+  "name": "food_life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdevelope/life-food.git"
+  },
+  "author": "M. P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsdevelope/life-food/issues"
+  },
+  "homepage": "https://github.com/jsdevelope/life-food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
